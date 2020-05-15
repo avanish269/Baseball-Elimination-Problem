@@ -34,6 +34,6 @@ When provided with the input, this program, for each team creates a flow network
 - Then after creating an object of divison we use it to create a flow network which is a class for graph. There we use the Ford-Fulkerson algorithm to determine if the team is eliminated or not.
 ***
 
-## Authors
+##### **Authors**
 
 * **Avanish Kumar Singh** - *2017MT10728*
