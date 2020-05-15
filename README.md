@@ -1,4 +1,3 @@
-###### **MTL342 Programming Assignment**
 # **Baseball Elimination**
 ***
 
