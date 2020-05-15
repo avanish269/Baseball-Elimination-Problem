@@ -36,4 +36,4 @@ When provided with the input, this program, for each team creates a flow network
 
 ##### **Authors**
 
-* **Avanish Kumar Singh** - *2017MT10728*
+* **Avanish Kumar Singh**
